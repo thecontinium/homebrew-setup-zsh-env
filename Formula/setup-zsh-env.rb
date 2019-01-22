@@ -1,6 +1,6 @@
 class SetupZshEnv< Formula
-  homepage 'https://github.com/thecontinium/homebrew-setup-xdg-zsh-env/'
-  url 'https://github.com/thecontinium/homebrew-setup-xdg-zsh-env.git'
+  homepage 'https://github.com/thecontinium/homebrew-setup-zsh-env/'
+  url 'https://github.com/thecontinium/homebrew-setup-zsh-env.git'
   version '0.0.1'
 
   skip_clean 'bin'
